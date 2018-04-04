@@ -1,3 +1,3 @@
 # Assignments
 
-[Assignment 2](https://github.com/kimvandijk99/Assignments/blob/master/assignment2.ipynb)
+[Assignment 2](http://localhost:8888/notebooks/Downloads/assignment2.ipynb)
