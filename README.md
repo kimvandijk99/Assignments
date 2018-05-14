@@ -11,3 +11,5 @@
 [Assignment 4](https://github.com/kimvandijk99/Assignments/blob/master/assignment4-checkpoint.ipynb)
 
 [Graded assignment 1](https://github.com/kimvandijk99/Assignments/blob/master/Graded_assignment1%20(1)%20(1).ipynb)
+
+[Graded assignment 2](https://github.com/kimvandijk99/Assignments/blob/master/Graded_assignment_2.ipynb)
