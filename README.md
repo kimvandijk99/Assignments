@@ -14,6 +14,6 @@
 
 [Graded assignment 2](https://github.com/kimvandijk99/Assignments/blob/master/Graded_assignment_2.ipynb)
 
-[Exam_june_7_2018](https://github.com/kimvandijk99/Assignments/blob/master/Exam_student.ipynb)
+[Exam R](https://github.com/kimvandijk99/Assignments/blob/master/Exam_student.ipynb)
 
-[Exam R](https://github.com/kimvandijk99/Assignments/blob/master/exam_june_7_2018.ipynb)
+[Exam_june_7_2018](https://github.com/kimvandijk99/Assignments/blob/master/exam_june_7_2018.ipynb)
