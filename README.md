@@ -13,3 +13,5 @@
 [Graded assignment 1](https://github.com/kimvandijk99/Assignments/blob/master/Graded_assignment1%20(1)%20(1).ipynb)
 
 [Graded assignment 2](https://github.com/kimvandijk99/Assignments/blob/master/Graded_assignment_2.ipynb)
+
+[Exam_june_7_2018](https://github.com/kimvandijk99/Assignments/blob/master/Exam_student.ipynb)
